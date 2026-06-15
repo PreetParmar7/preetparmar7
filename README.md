@@ -10,7 +10,7 @@ Turning data into intelligent solutions through Machine Learning, Analytics, and
 
 <p align="center">
 
-Open to Data Science • Machine Learning • Data Analytics • Business Intelligence Internships (Jan–May 2027)
+Open to Data Science • Machine Learning • Data Analytics • Business Intelligence Roles (Jan–May 2027)
 
 </p>
 
