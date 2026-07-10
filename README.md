@@ -307,7 +307,7 @@ LinkedIn
 
 Email: parmarpreet49@gmail.com
 
-Portfolio (Coming Soon)
+Portfolio : https://preetparmarportfolio.vercel.app/
 
 ---
 
